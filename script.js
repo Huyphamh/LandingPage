@@ -51,6 +51,6 @@ function autoSlide(){
             btns[0].classList.add('active');
             contents[0].classList.add('active')
         }
-    },5000)
+    },8000)
 }
   
